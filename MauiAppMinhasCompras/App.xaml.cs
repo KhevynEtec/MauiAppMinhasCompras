@@ -1,13 +1,13 @@
 ﻿namespace MauiAppMinhasCompras
 {
-    public partial class App : Application
+    public partial class App : Appl/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssssssssication
     {
         public App()
         {
             InitializeComponent();
 
             //MainPage = new AppShell();
-            MainPage = new NavigationPage(new Views.ListaProduto());
+            MainPage = new NavigationPage(new Views.ListaProduto());4aaaaqaaaaa
         }
     }
 }
